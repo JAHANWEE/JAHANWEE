@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there! I'm Jahanwee, an enthusiastic undergraduate who's equally passionate about technology and writing. Currently, I'm diving into the exciting realms of front-end development and blockchain technology. I'm always on the lookout for collaboration opportunities to explore new and innovative technologies.<br><br>Fun fact about me: I have an insatiable love for ghazals! If you ever want to talk about this enchanting form of poetry, I'm your go-to person. Just be warned, I might get a little crazy with excitement!<br><br>Feel free to reach out and connect. Let's create something amazing together!<br><br>Stay curious, stay creative, and keep coding! ✨🚀
+Hello there! I'm Jahanwee, an enthusiastic undergraduate who's equally passionate about technology and writing. Currently, I'm diving into the exciting realms of front-end development and blockchain technology. I'm always on the lookout for collaboration opportunities to explore new and innovative technologies.<br><br>Fun fact about me: I have an insatiable love for ghazals! If you ever want to talk about this enchanting form of poetry, I'm your go-to person. Just be warned, I might get a little crazy with excitement!<br><br>Feel free to reach out and connect. Let's create something amazing together!<br>
 
 
 ## 🌐 Socials:
