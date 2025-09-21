@@ -13,9 +13,8 @@ education:
 
 fields_of_interests:
   [
-    "Web Development",
-    "UI/UX",
-    "Product Design"
+    Full-Stack Development,
+    AI/ML Integration,
   ]
 
 hobbies: ["Art", "Cinema", "Reading Books", "Writing"]
